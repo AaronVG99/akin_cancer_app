@@ -3,7 +3,7 @@
   let bening;
   let malignant;
 
-  const url = "https://skincancer-classificator.herokuapp.com/";
+  const url = "https://skincancer-classificator.herokuapp.com/predict";
 
   const draw = () => {
     var img = document.getElementById("image");
